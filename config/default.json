@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "unsecureKey",
+  "db": "mongodb://127.0.0.1:27017/zoe",
+  "port": "3900",
+  "requiresAuth": true
+}
